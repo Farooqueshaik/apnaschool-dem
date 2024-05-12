@@ -4,3 +4,5 @@ this is my first repository
 author - farooque shaikh
 <br>
 this is my new mini project of python
+<br>
+my name is farooque
